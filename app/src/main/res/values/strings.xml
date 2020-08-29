@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TravelHelper</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SignIn With Email</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Aliquam varius metus quis ipsum vulputate ultrices. Integer at ornare ligula, vel ullamcorper nisl. Nunc condimentum justo et neque molestie, elementum tincidunt augue convallis. Donec in pretium ex. Integer accumsan ac odio id placerat.
+    Mauris varius, quam pretium pellentesque varius, elit ipsum porta mi, non lacinia ante lectus id nibh.
+    Duis sagittis accumsan. Phasellus dui est, bibendum varius posuere ut, pretium sed sapien.
+    Praesent est tellus, vestibulum eu dui ut, lobortis suscipit lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    Vivamus placerat eleifend tortor sit amet porttitor. Quisque quis tempor felis. Cras at est ultricies, molestie lorem eu, bibendum tortor.
+    Phasellus convallis hendrerit scelerisque. Mauris volutpat augue non nisi maximus iaculis. Pellentesque sed pellentesque diam.
+    Integer a justo eget mauris dignissim consectetur quis at lorem. Donec non urna mollis, vulputate massa non, condimentum eros.
+    Fusce ultrices ligula vel nulla ornare sollicitudin. Aliquam erat volutpat. Nam justo erat, rutrum sit amet tortor et, ultricies
+    sagittis leo. Aliquam a neque feugiat, mattis lectus et, tempus tellus. Sed porttitor magna faucibus enim pharetra interdum.
+    Nunc pellentesque maximus orci at elementum. Cras luctus finibus magna non tincidunt. Aenean nec dui porttitor, tincidunt lacus ac,
+    faucibus tellus. Maecenas risus eros, interdum non nunc non, gravida laoreet tortor.
+    Integer viverra magna tempor, mollis nisi eu, sollicitudin purus. Suspendisse potenti.</string>
+
+    <string name="trip_name">Trip Name</string>
+    <string name="destination">Destination</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="city_break">City break</string>
+    <string name="sea_side">Sea side</string>
+    <string name="mountains">Mountains</string>
+    <string name="price_eur">Price(eur)</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="save">SAVE</string>
+    <string name="date">DD/MM/YYYY</string>
+    <string name="gallery_photo">Gallery Photo</string>
+    <string name="rating">Rating</string>
+    <string name="select">Select</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="title_activity_main2">Travel Helper</string>
+    <string name="title_activity_main">Travel Helper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="price_rating_text">%1$d/%2$f</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="about_us">About Us</string>
+    <string name="contact">Contact</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="date_format">%1$s/%2$s/%3$s</string>
+</resources>
